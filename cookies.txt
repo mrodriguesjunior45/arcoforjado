@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+hcaptcha.com	TRUE	/	FALSE	1999999999	__cf_bm	eIgTkudby7wyrq_XDLGEhcghbgOJTB8OrsQY3Jth9yY-1790973566.7776992-1.0.1.1-pYKAqVYUPvPKAujkCl_Op_9SGBP2l2OqcnLND2spca9wEgp9aeJA6fU4meDcnIxdxv0r91hZ_cUNf4tdn4m9rHctCzdX4XRsTpVeqKSdUVn1IC04tAzj_mbqYX9hwLHI
+hcaptcha.com	TRUE	/	FALSE	1999999999	SameSite	None
+
